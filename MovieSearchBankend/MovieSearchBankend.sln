@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSearchBankend.API", "MovieSearchBankend.API\MovieSearchBankend.API.csproj", "{9E1D76EC-0802-49B7-9805-65115BA1377D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSearchBankend.Tests", "MovieSearchBankend.Tests\MovieSearchBankend.Tests.csproj", "{3E63A6CD-3141-4C6A-A882-4A19979D7D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1D76EC-0802-49B7-9805-65115BA1377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1D76EC-0802-49B7-9805-65115BA1377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1D76EC-0802-49B7-9805-65115BA1377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1D76EC-0802-49B7-9805-65115BA1377D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E63A6CD-3141-4C6A-A882-4A19979D7D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E63A6CD-3141-4C6A-A882-4A19979D7D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E63A6CD-3141-4C6A-A882-4A19979D7D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E63A6CD-3141-4C6A-A882-4A19979D7D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D8B76E-63EC-4831-85CB-BA967FB0EDA3}
+	EndGlobalSection
+EndGlobal

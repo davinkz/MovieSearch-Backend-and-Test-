@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7NPkfPYaFSDX01jgobyQpS0NNCPtZE6Kz8MfwsNzsj+fKLecI9J914KHQMTH2pPCGb3/Xcnx2IuQb4vYAwHow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AkeemAweda\\Documents\\Aweda\\Apps\\.NET\\API\\MovieSearchBankend\\MovieSearchBankend.API\\MovieSearchBankend.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\AkeemAweda.FCMBPENSIONS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

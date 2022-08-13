@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Hello",
+    "year": "2008",
+    "rated": "N/A",
+    "released": "10 Oct 2008",
+    "runtime": "129 min",
+    "genre": "Drama, Romance",
+    "director": "Atul Agnihotri",
+    "writer": "Atul Agnihotri, Chetan Bhagat, Jalees Sherwani",
+    "actors": "Sharman Joshi, Amrita Arora, Sohail Khan",
+    "plot": "Call-center workers receive a phone call from God.",
+    "language": "Hindi",
+    "country": "India",
+    "awards": "1 nomination",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGM5NjliODgtODVlOS00OWZmLWIzYzMtMTI2OWIzMTM1ZGRhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "source": "Internet Movie Database",
+        "value": "3.3/10"
+      }
+    ],
+    "metascore": "N/A",
+    "imdbRating": "3.3",
+    "imdbVotes": "2,154",
+    "imdbID": "tt1087856",
+    "type": "movie",
+    "dvd": "05 Apr 2018",
+    "boxOffice": "N/A",
+    "production": "N/A",
+    "website": "N/A",
+    "response": "True",
+    "error": "",
+    "hasError": false
+  },
+  {
+    "Title": "Évolu",
+    "Year": "1974",
+    "Rated": "N/A",
+    "Released": "01 Oct 1974",
+    "Runtime": "7 min",
+    "Genre": "Animation, Short",
+    "Director": "John Leach",
+    "Writer": "John Leach",
+    "Actors": "N/A",
+    "Plot": "N/A",
+    "Language": "N/A",
+    "Country": "Canada",
+    "Awards": "1 nomination.",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt0069551",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Guardians of the Galaxy Vol. 2",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "05 May 2017",
+    "Runtime": "136 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "James Gunn",
+    "Writer": "James Gunn, Dan Abnett, Andy Lanning",
+    "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista",
+    "Plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 15 wins & 59 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.6",
+    "imdbVotes": "660,387",
+    "imdbID": "tt3896198",
+    "Type": "movie",
+    "DVD": "22 Aug 2017",
+    "BoxOffice": "$389,813,101",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
